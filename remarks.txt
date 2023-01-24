@@ -1,0 +1,13 @@
+http://127.0.0.1/predictPotability?ph=8.31608&Hardness=214.3733941&Solids=22018.41744&Chloramines=8.059332377&Sulfate=356.8861356&Conductivity=363.2665162&Organic_carbon=18.4365245&Trihalomethanes=100.3416744&Turbidity=4.628770537
+
+
+
+
+
+
+
+
+
+
+
+
